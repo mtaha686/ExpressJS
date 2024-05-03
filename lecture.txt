@@ -1,0 +1,26 @@
+Creating an Express server
+1- Create a Directory
+2- Create a js file
+2- npm init
+3- Install express and nodemon
+4- write server application in js file
+6- start server
+
+
+
+command to acces the listening port: 
+netstat -ano | finder "listening"
+
+
+HTTP Request Vocab?
+GET  -> requesting resourse form server
+POST -> sending resourse to server
+PUT -> Replace resourse } update
+PATCH -> patch up resourse } update
+DELETE -> delete request from server or data base.
+
+nodemon
+npm install -g nodemon
+it automatically restarts the server 
+nodemon index.js
+
